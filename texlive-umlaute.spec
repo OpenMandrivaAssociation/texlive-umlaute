@@ -57,3 +57,16 @@ remains the sole source of that support.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> v2.1-2
++ Revision: 757251
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> v2.1-1
++ Revision: 719841
+- texlive-umlaute
+- texlive-umlaute
+- texlive-umlaute
+
