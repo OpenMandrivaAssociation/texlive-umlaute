@@ -6,7 +6,7 @@
 # catalog-version v2.1
 Name:		texlive-umlaute
 Version:	v2.1
-Release:	8
+Release:	9
 Summary:	German input encodings in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/umlaute
