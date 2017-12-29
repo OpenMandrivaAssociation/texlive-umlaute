@@ -1,12 +1,6 @@
-# revision 15878
-# category Package
-# catalog-ctan /macros/latex/contrib/umlaute
-# catalog-date 2009-10-10 17:55:02 +0200
-# catalog-license lppl
-# catalog-version v2.1
 Name:		texlive-umlaute
-Version:	v2.1
-Release:	10
+Version:	2.1
+Release:	1
 Summary:	German input encodings in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/umlaute
@@ -57,16 +51,3 @@ remains the sole source of that support.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> v2.1-2
-+ Revision: 757251
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> v2.1-1
-+ Revision: 719841
-- texlive-umlaute
-- texlive-umlaute
-- texlive-umlaute
-
