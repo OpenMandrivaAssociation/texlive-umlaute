@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	German input encodings in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/umlaute
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/umlaute
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/umlaute.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/umlaute.doc.r%{version}.tar.xz
